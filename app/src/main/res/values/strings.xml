@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Librarian App</string>
+    <string name="et_book_input_hint">Book title or author</string>
+    <string name="tv_title_text">Enter text to search a Book</string>
+    <string name="book_image_alternative_text">book image</string>
+    <string name="search_books_button_content_text">Search books</string>
+    <string name="msg_error_no_query">Query is empty, please type a book title or an author name.</string>
+    <string name="msg_error_no_internet">Device not connected. Please check your Internet connection.</string>
+</resources>
